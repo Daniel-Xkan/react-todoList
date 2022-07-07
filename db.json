@@ -1,0 +1,11 @@
+{
+  "Plans": [
+    {
+      "id": 1,
+      "text": "Learn react on YouTube",
+      "day": "June 25th at 1:00pm",
+      "reminder": true
+    }
+  ]
+
+}
