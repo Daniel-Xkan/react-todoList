@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//daniel-xkan.github.io/react-todoList/static/css/main.31cd00b7.css",
+    "main.js": "//daniel-xkan.github.io/react-todoList/static/js/main.6906d47b.js",
+    "static/js/787.78a8afb9.chunk.js": "//daniel-xkan.github.io/react-todoList/static/js/787.78a8afb9.chunk.js",
+    "index.html": "//daniel-xkan.github.io/react-todoList/index.html",
+    "main.31cd00b7.css.map": "//daniel-xkan.github.io/react-todoList/static/css/main.31cd00b7.css.map",
+    "main.6906d47b.js.map": "//daniel-xkan.github.io/react-todoList/static/js/main.6906d47b.js.map",
+    "787.78a8afb9.chunk.js.map": "//daniel-xkan.github.io/react-todoList/static/js/787.78a8afb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd00b7.css",
+    "static/js/main.6906d47b.js"
+  ]
+}
